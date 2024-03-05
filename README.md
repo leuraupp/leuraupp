@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Leonardo Luiz Raupp, I am a brasilian guy make progress in the dream of making games.
+I work with game kind of 10 years, in a company called Fontec, and work in a app of classic card games and boardgames called GameVelvet (MegaJogos).
+
+
 
 <!--
 **leuraupp/leuraupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
