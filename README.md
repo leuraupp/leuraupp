@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there 👋</h1>
 My name is Leonardo Luiz Raupp, I am a brasilian guy make progress in the dream of making games.
-I work with game kind of 10 years, in a company called Fontec, and work in a app of classic card games and boardgames called GameVelvet (MegaJogos).
+I work with game more than 10 years, in a company called Fontec, and work in a app of classic card games and boardgames called GameVelvet (MegaJogos).
 
 ## Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" height="55" width="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="55" width="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" height="55" width="55"/>
